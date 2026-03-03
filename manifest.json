@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Zillow Feature Checker",
-  "version": "1.0",
-  "description": "Automatically checks Zillow listings for in-unit laundry and central air.",
+  "version": "1.1",
+  "description": "Floating Zillow quick-scan panel with configurable listing feature checks.",
   "content_scripts": [
     {
       "matches": ["https://www.zillow.com/*"],
